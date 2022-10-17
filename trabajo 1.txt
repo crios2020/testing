@@ -7,4 +7,4 @@ https://servicios.usig.buenosaires.gob.ar/normalizar
 - Crear una collection en postman.
 - Realizar el testeo.
 
-- Entrega Individual, fecha estimada 17/11/2022
+- Entrega Individual, fecha estimada 21/11/2022
